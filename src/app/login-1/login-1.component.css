@@ -1,0 +1,13 @@
+.wrapper {
+  width: 500px;
+  margin: 50px auto;
+}
+
+
+.ng-valid:not(form) {
+  border-left: solid green 5px;
+}
+
+.ng-invalid:not(form) {
+  border-left: solid darkred 5px;
+}
